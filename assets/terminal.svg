@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300" role="img" aria-label="hidra0x terminal">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b111b"/>
+      <stop offset="1" stop-color="#070b12"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ff3b5c"/>
+      <stop offset="0.5" stop-color="#ff9f43"/>
+      <stop offset="1" stop-color="#58a6ff"/>
+    </linearGradient>
+    <style>
+      @keyframes blink { 0%,45% { opacity:1 } 50%,100% { opacity:0 } }
+      .cursor { animation:blink 1.1s step-end infinite }
+    </style>
+  </defs>
+  <rect width="1000" height="300" rx="18" fill="url(#bg)" stroke="#1b2a3a"/>
+  <rect x="0" y="0" width="1000" height="38" rx="18" fill="#0d1622"/>
+  <rect x="0" y="20" width="1000" height="18" fill="#0d1622"/>
+  <circle cx="24" cy="19" r="5" fill="#ff5f57"/>
+  <circle cx="42" cy="19" r="5" fill="#febc2e"/>
+  <circle cx="60" cy="19" r="5" fill="#28c840"/>
+  <text x="500" y="24" fill="#5f7186" font-family="Consolas, SFMono-Regular, Menlo, monospace" font-size="12" text-anchor="middle">hidra0x@a12 — zsh</text>
+  <rect x="0" y="38" width="1000" height="2" fill="url(#bar)" opacity="0.8"/>
+
+  <g font-family="Consolas, SFMono-Regular, Menlo, monospace" font-size="16">
+    <text x="28" y="76" fill="#27c93f">hidra0x@a12</text>
+    <text x="148" y="76" fill="#5f7186">:~$</text>
+    <text x="190" y="76" fill="#e8eef7">whoami</text>
+    <text x="28" y="104" fill="#8fa3b8">iOS kernel research · A12 · 18.7.2 · arm64e</text>
+
+    <text x="28" y="144" fill="#27c93f">hidra0x@a12</text>
+    <text x="148" y="144" fill="#5f7186">:~$</text>
+    <text x="190" y="144" fill="#e8eef7">ls projects</text>
+    <text x="28" y="172" fill="#ff9f43">HIDRA</text>
+    <text x="100" y="172" fill="#e8eef7">MOON</text>
+    <text x="164" y="172" fill="#58a6ff">hidgate-poc</text>
+    <text x="296" y="172" fill="#27c93f">aurora-tv</text>
+
+    <text x="28" y="212" fill="#27c93f">hidra0x@a12</text>
+    <text x="148" y="212" fill="#5f7186">:~$</text>
+    <text x="190" y="212" fill="#e8eef7">./status</text>
+    <text x="28" y="240" fill="#8fa3b8">S0–S3 done · S4 in progress · no public build</text>
+
+    <text x="28" y="276" fill="#27c93f">hidra0x@a12</text>
+    <text x="148" y="276" fill="#5f7186">:~$</text>
+    <rect class="cursor" x="190" y="263" width="10" height="17" fill="#e8eef7"/>
+  </g>
+</svg>
