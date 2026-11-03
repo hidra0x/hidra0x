@@ -81,19 +81,16 @@ not through a forged function pointer.
   <img src="https://img.shields.io/badge/IOSurface-KVA-27C93F?style=flat-square&labelColor=0D1117" alt="IOSurface">
 </p>
 
-## `$ ./stats`
+## `$ ./metrics`
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hidra0x&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF9F43&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github" alt="GitHub stats">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=hidra0x&hide_border=true&background=0D1117&ring=FF4D4D&fire=FF9F43&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8FA3B8" alt="GitHub streak">
+  <img src="assets/metrics.svg" width="92%" alt="hidra0x metrics">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hidra0x&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF9F43&text_color=C9D1D9&langs_count=8" alt="Top languages">
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hidra0x&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Trophies">
+  <img src="https://img.shields.io/github/stars/hidra0x/hidra?style=for-the-badge&label=STARS&color=FF9F43&labelColor=0D1117" alt="stars">
+  <img src="https://img.shields.io/github/forks/hidra0x/hidra?style=for-the-badge&label=FORKS&color=58A6FF&labelColor=0D1117" alt="forks">
+  <img src="https://img.shields.io/github/last-commit/hidra0x/hidra?style=for-the-badge&label=LAST%20COMMIT&color=27C93F&labelColor=0D1117" alt="last commit">
 </p>
 
 ## `$ ./snake`
