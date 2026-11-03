@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" width="100%" alt="hidra0x — iOS kernel research">
+  <img src="https://raw.githubusercontent.com/hidra0x/hidra0x/main/assets/banner.svg" width="100%" alt="hidra0x — iOS kernel research">
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 ## `$ whoami`
 
 <p align="center">
-  <img src="assets/terminal.svg" width="92%" alt="hidra0x terminal">
+  <img src="https://raw.githubusercontent.com/hidra0x/hidra0x/main/assets/terminal.svg" width="92%" alt="hidra0x terminal">
 </p>
 
 ```yaml
@@ -84,7 +84,7 @@ not through a forged function pointer.
 ## `$ ./metrics`
 
 <p align="center">
-  <img src="assets/metrics.svg" width="92%" alt="hidra0x metrics">
+  <img src="https://raw.githubusercontent.com/hidra0x/hidra0x/main/assets/metrics.svg" width="92%" alt="hidra0x metrics">
 </p>
 
 <p align="center">
